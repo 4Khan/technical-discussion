@@ -14,4 +14,5 @@ This is a good example of [my code](https://gist.github.com/4Khan/ef02b1e3fccbd6
 
 ### Colab Example
 
-this is the [notebook](
+this is the [notebook](https://github.com/4Khan/technical-discussion/blob/main/technical_docs.ipynb)
+
